@@ -26,4 +26,4 @@ This is a demonstration project showing the development of a basic Android app. 
 * Add random sonnet selection to the app
 * Add in audio option so that the sonnets can be listened to as well as read
 * Add more content to Firestore database that can be displayed in the app (famous lines from Shakespeare's plays, poems by other authors, etc)
-* Add addition menu screen for selecting different types of content to display from Firestore (sonnets, poems, quotes, etc)
+* Add additional menu screen for selecting different types of content to display from Firestore (sonnets, poems, quotes, etc)
