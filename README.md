@@ -4,7 +4,7 @@ This app displays Shakespeare's Sonnets. On the main screen, the user can select
 
 This is a demonstration project showing the development of a basic Android app. My goal with this project was to become familiar with the basics of building an Android app and designing app layouts.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/c3DjCTSqPiA)
 
 # Development Environment
 
